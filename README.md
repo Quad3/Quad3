@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Bulat 👋
+Computer science graduate
+
+[![LeetCode user Elessar11](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FElessar11&logo=leetcode&logoColor=yellow)](https://leetcode.com/Elessar11/)
+
 
 <!--
 **Quad3/Quad3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

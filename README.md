@@ -7,6 +7,7 @@ Computer science graduate
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=32px;>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width=32px;>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width=32px;>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=32px;>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width=32px;>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=32px;>
